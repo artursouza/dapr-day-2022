@@ -7,7 +7,7 @@ from flask import Flask, request, redirect
 
 SHORT_URL_ID_LENGTH=7
 
-DAPR_STATE_STORE="url_store"
+DAPR_STATE_STORE="url-store"
 
 app = Flask(__name__)
 dapr = DaprClient()
