@@ -2,6 +2,8 @@
 
 Replay this demo at your local machine.
 
+You can also follow the instructions on how to build this app via the [slide deck](2022-09-03_DaprDay_China.pdf) from the event.
+
 ## Pre-requisites
 
 For running locally:
